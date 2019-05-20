@@ -1,0 +1,33 @@
+{
+  "name": "nodejsparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "dependencies": {
+    "dom-serializer": "^0.1.0",
+    "domelementtype": "^1.3.0",
+    "domhandler": "^2.4.1",
+    "css-select": "^1.3.0-rc0",
+    "htmlparser2": "^3.9.2",
+    "inherits": "^2.0.3",
+    "iconv-lite": "^0.4.19",
+    "image-downloader": "^3.4.2",
+    "lodash": "^4.17.4",
+    "request": "^2.88.0",
+    "tress": "^1.0.5",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "async": "^2.6.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "needle": "^2.4.0",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
